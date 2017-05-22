@@ -4,18 +4,17 @@ This is the code repository for [Python GUI Programming Cookbook - Second Editio
 This book will guide you from the very basics of creating a fully functional GUI in Python with only a few lines of code. Each and every recipe adds more widgets to the GUIs we are creating. While the cookbook recipes all stand on their own, there is a common theme running through all of them. As our GUIs keep expanding, using more and more widgets, we start to talk to networks, databases, and graphical libraries that greatly enhance our GUI’s functionality. This book is what you need to expand your knowledge on the subject of GUIs, and make sure you’re not missing out in the long run.
 ### Instructions and Navigations
 All of the codes are organized as per the chapters, each folder has the codes related to that chapter or appendix.                   
-For example: Building-Bots-with-Nodejs/Chapter05/package.json
+For example: Python-GUI-Programming-Cookbook-Second-Edition/Chapter01/Ch01_Code/First_GUI.py
 
 The code will look like the following:
 ```
-{
-  "name": "telegrambot",
-  "version": "1.0.0",
-  "description": "\"A Telegram Bot for Sentiment Analysis\"",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+import tkinter as tk
+
+# Create instance
+win = tk.Tk()   
+
+# Add a title       
+win.title("Python GUI")
 ```
 
 Following is the software-hardware list:
