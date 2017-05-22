@@ -19,9 +19,15 @@ win.title("Python GUI")
 
 Following is the software-hardware list:
 
-| Chapter  | Software required | Hardware required | OS required |
+| Chapter  | Software required | Download links to the software | Hardware required | OS required |
 | ------------- | ------------- | ------------- | ------------- |
-| 01-09 | Node.js | PC or laptop with at least 2 GB of RAM (4 recommended) | OS Independent although Windows 8 or above recommended |
+| All | Python 3.6 | https://www.python.org/downloads/release/python-360/
+I used: python-3.6.0b4-amd64.exe
+Note: If the reader has some older Python versions installed like 2.7, they might run into some problems. It is NOT the topic of this book to teach readers how to install their software.
+Another Note: It is important to use the 64-bit versions of Python, Windows 10 and all other required software to avoid conflicts.
+ | Your PC | Tested on Windows 10 64-bit OS.
+I personally use a Dell laptop. In theory, Python should run “anywhere”. Mac, Linux etc.
+ |
 
 ## Related Products
  
