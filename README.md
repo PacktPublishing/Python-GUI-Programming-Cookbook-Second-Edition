@@ -20,7 +20,7 @@ win.title("Python GUI")
 Following is the software-hardware list:
 
 | Chapter  | Software required | Download links to the software | Hardware required | OS required |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | All | Python 3.6 | https://www.python.org/downloads/release/python-360/ | Your PC | Windows 8 and up |
 
 ## Related Products
